@@ -1,0 +1,14 @@
+/Users/zara/RiderProjects/Turbo.az/Turbo.az/bin/Debug/net8.0/Turbo.az
+/Users/zara/RiderProjects/Turbo.az/Turbo.az/bin/Debug/net8.0/Turbo.az.deps.json
+/Users/zara/RiderProjects/Turbo.az/Turbo.az/bin/Debug/net8.0/Turbo.az.runtimeconfig.json
+/Users/zara/RiderProjects/Turbo.az/Turbo.az/bin/Debug/net8.0/Turbo.az.dll
+/Users/zara/RiderProjects/Turbo.az/Turbo.az/bin/Debug/net8.0/Turbo.az.pdb
+/Users/zara/RiderProjects/Turbo.az/Turbo.az/obj/Debug/net8.0/Turbo.az.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zara/RiderProjects/Turbo.az/Turbo.az/obj/Debug/net8.0/Turbo.az.AssemblyInfoInputs.cache
+/Users/zara/RiderProjects/Turbo.az/Turbo.az/obj/Debug/net8.0/Turbo.az.AssemblyInfo.cs
+/Users/zara/RiderProjects/Turbo.az/Turbo.az/obj/Debug/net8.0/Turbo.az.csproj.CoreCompileInputs.cache
+/Users/zara/RiderProjects/Turbo.az/Turbo.az/obj/Debug/net8.0/Turbo.az.dll
+/Users/zara/RiderProjects/Turbo.az/Turbo.az/obj/Debug/net8.0/refint/Turbo.az.dll
+/Users/zara/RiderProjects/Turbo.az/Turbo.az/obj/Debug/net8.0/Turbo.az.pdb
+/Users/zara/RiderProjects/Turbo.az/Turbo.az/obj/Debug/net8.0/Turbo.az.genruntimeconfig.cache
+/Users/zara/RiderProjects/Turbo.az/Turbo.az/obj/Debug/net8.0/ref/Turbo.az.dll
