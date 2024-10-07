@@ -12,3 +12,4 @@
 /Users/zara/RiderProjects/Turbo.az/Turbo.az/obj/Debug/net8.0/Turbo.az.pdb
 /Users/zara/RiderProjects/Turbo.az/Turbo.az/obj/Debug/net8.0/Turbo.az.genruntimeconfig.cache
 /Users/zara/RiderProjects/Turbo.az/Turbo.az/obj/Debug/net8.0/ref/Turbo.az.dll
+/Users/zara/RiderProjects/Turbo.az/Turbo.az/obj/Debug/net8.0/Turbo.az.sourcelink.json

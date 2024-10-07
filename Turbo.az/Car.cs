@@ -7,9 +7,10 @@ public class Car : IVehicle
     public string model { get; set; }
     public decimal mileage { get; set; }
     public decimal price { get; set; }
+    public int User_ID { get; set; }
     private static int _carCounter = 0;
 
-    public Car(string brand, string model, decimal mileage, decimal price) :  base()
+    public Car( string brand, string model, decimal mileage, decimal price) :  base()
     {
         _carCounter++;
         ID = _carCounter;

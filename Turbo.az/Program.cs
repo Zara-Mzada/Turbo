@@ -63,7 +63,6 @@ namespace Turbo.az
             
             ReStart:
             Console.Write("Welcome Turbo.az! Are you User or Guest (U/G): ");
-            Console.WriteLine(carController.Cars[3]);
 
             string role = Console.ReadLine();
             if (role == "u" || role == "U")
@@ -86,7 +85,7 @@ namespace Turbo.az
                                       "3. Remove vehicle\n" +
                                       "4. See vehicles\n" +
                                       "5. Filter\n" +
-                                      "6. Exit" +
+                                      "6. Exit\n" +
                                       "Enter a number of variant: ");
                     string choice = Console.ReadLine();
                     if (choice == "1")
@@ -106,7 +105,7 @@ namespace Turbo.az
                             Console.WriteLine("Enter car model: ");
                             string model = Console.ReadLine();
 
-                            if (Regex.IsMatch(brand, regex))
+                            if (Regex.IsMatch(brand, regex) && Regex.IsMatch(model, regex))
                             {
                                 ReMile:
                                 Console.WriteLine("Enter car mileage: ");
@@ -159,7 +158,7 @@ namespace Turbo.az
                             Console.WriteLine("Enter moto model: ");
                             string model = Console.ReadLine();
 
-                            if (Regex.IsMatch(brand, regex))
+                            if (Regex.IsMatch(brand, regex) && Regex.IsMatch(model, regex))
                             {
                                 ReMile:
                                 Console.WriteLine("Enter moto mileage: ");
@@ -211,7 +210,7 @@ namespace Turbo.az
                             Console.WriteLine("Enter truck model: ");
                             string model = Console.ReadLine();
 
-                            if (Regex.IsMatch(brand, regex))
+                            if (Regex.IsMatch(brand, regex) && Regex.IsMatch(model, regex))
                             {
                                 ReMile:
                                 Console.WriteLine("Enter truck mileage: ");
@@ -1203,7 +1202,6 @@ namespace Turbo.az
                         {
                             User user = new User(name, surname, email, password);
                             userController.SignUp(user);
-                            userController.ShowUser();
                             goto ReStart;
                         }
                         else

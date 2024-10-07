@@ -7,5 +7,6 @@ public interface IVehicle
     public string model { get; set; }
     public decimal mileage{ get; set; }
     public decimal price { get; set; }
+    public int User_ID { get; set; }
     
 }

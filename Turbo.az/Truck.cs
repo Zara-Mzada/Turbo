@@ -7,6 +7,7 @@ public class Truck : IVehicle
     public string model { get; set; }
     public decimal mileage { get; set; }
     public decimal price { get; set; }
+    public int User_ID { get; set; }
     private static int _truckCount = 0;
     public Truck(string brand, string model, decimal mileage, decimal price) :  base()
     {

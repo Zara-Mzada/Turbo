@@ -29,7 +29,7 @@ public class UserController
         foreach (User user in Users)
         {
             Console.WriteLine("============================\n" +
-                              $"User id: {id}" +
+                              $"User id: {id}\n" +
                               $"Name: {user.name}\n" +
                               $"Surname: {user.surname}\n" +
                               $"Email: {user.email}\n" +
